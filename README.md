@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vemalsar
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in game development and modding
 - 📫 How to reach me: pogisti at gmail dot com
 
 <!---
